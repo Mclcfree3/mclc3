@@ -1,19 +1,22 @@
+composer.*
 /tailscale-cs
 /work_area*
-composer.*
 /Python*
-*.output
 /Modgest
 /thanos
 /vendor
 /bkdir
+*.output
 *.exe
 *.msi
 *.pyc
 *.msp
 *.msx
+**/playit.status
+**/playit.tunnels
 playit.status
 playit.tunnels
 addons
+
 # GitHub OAuth token
 msx_session.bin
